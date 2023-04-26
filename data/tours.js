@@ -1,0 +1,52 @@
+module.exports = [
+  {
+    id: 1,
+    tag: "LIKELY TO SELL OUT*",
+    slideImg: ["/img/tours/1.png", "/img/tours/5.png", "/img/tours/6.png"],
+    title: "Gangtok Tour 4 days and 3 Nights",
+    location: "Gangtok, East Sikkim",
+    duration: "16",
+    numberOfReviews: "1",
+    price: "100",
+    tourType: "Full-day Tours",
+    delayAnimation: "100",
+  },
+  {
+    id: 2,
+    tag: "",
+    slideImg: ["/img/tours/2.png", "/img/tours/3.png", "/img/tours/4.png"],
+    title: "Namchi Ravangla 2 days 1 night",
+    location: "Namchi,South Sikkim",
+    duration: "16",
+    numberOfReviews: "3",
+    price: "65",
+    tourType: "Full Day Tours ",
+    delayAnimation: "200",
+  },
+
+  {
+    id: 3,
+    tag: "best seller",
+    slideImg: ["/img/tours/7.png", "/img/tours/8.png", "/img/tours/9.png"],
+    title: "West Sikkim Tour 2 days 2 night",
+    location: "West Sikkim ",
+    duration: "18",
+    numberOfReviews: "2163",
+    price: "89",
+    tourType: "Full Day Tours",
+    delayAnimation: "300",
+  },
+  {
+    id: 4,
+    tag: "top rated",
+    slideImg: ["/img/tours/10.png", "/img/tours/11.png"],
+    title: "Lachen Lachung Yumthang tour 2 days 2 night",
+    location: "Mangan, North Sikkim",
+    duration: "20",
+    numberOfReviews: "14",
+    price: "120",
+    tourType: "Bus Tours",
+    delayAnimation: "400",
+  }
+  
+];
