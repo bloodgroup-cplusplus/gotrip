@@ -4,7 +4,6 @@ import Header5 from "../../components/header/header-5";
 import Hero5 from "../../components/hero/hero-5";
 import Footer4 from "../../components/footer/footer-4";
 import Tours2 from "../../components/tours/Tours2";
-import CallToActions from "../../components/home/home-5/CallToActions";
 
 const home_5 = () => {
   return (
